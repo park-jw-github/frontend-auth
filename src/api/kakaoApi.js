@@ -4,7 +4,7 @@ import { API_SERVER_HOST } from "./todoApi";
 
 const rest_api_key =`7319617c1d1cfb26a7b79e3f549e9151` //REST키값
 
-const redirect_uri =`http://localhost:3000/member/kakao`
+const redirect_uri =`https://main.db3n1v76gqj7y.amplifyapp.com/member/kakao`
 
 const auth_code_path = `https://kauth.kakao.com/oauth/authorize`
 
