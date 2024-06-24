@@ -1,7 +1,7 @@
 import axios from "axios"
 import jwtAxios from "../util/jwtUtil"
 
-export const API_SERVER_HOST = 'http://localhost:8080'
+export const API_SERVER_HOST = 'https://devdoc-backend-a9c04f690ebd.herokuapp.com'
 
 const prefix = `${API_SERVER_HOST}/api/todo`
 
